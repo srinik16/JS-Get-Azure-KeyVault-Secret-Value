@@ -1,0 +1,26 @@
+{
+  "name": "keyvaultgraphapi",
+  "version": "1.0.0",
+  "description": "Azure Key Vault Secrets client library samples for JavaScript",
+  "engine": {
+    "node": ">=8.0.0"
+  },
+  "keywords": [
+    "Azure",
+    "Key Vault",
+    "Secrets",
+    "Node.js",
+    "JavaScript"
+  ],
+  "main": "index.js",
+  "sideEffects": false,
+  "dependencies": {
+    "@azure/identity": "latest",
+    "@azure/keyvault-secrets": "latest",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    
+  }
+  
+}
